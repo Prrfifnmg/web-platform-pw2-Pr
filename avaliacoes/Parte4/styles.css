@@ -1,0 +1,40 @@
+html, body {
+  background-color: rgb(167, 226, 236);
+  font-family:  'Courier New', Courier, monospace;
+  fonte-size: 20px;
+
+}  
+
+h1 {
+color: rgb(19, 6, 66);
+background-color: rgb(99, 161, 161);
+
+}
+a {
+  color:rgb(15, 15, 15);
+}
+nav#principal
+ {
+   
+   text-align: left;
+   background-color: rgb(124, 214, 236);
+   border-width: 1px;
+   height: 20px;
+   width: 33%;
+   
+} 
+nav#principal:hover
+ {
+   
+   text-align: left;
+   background-color: rgb(20, 166, 192);
+   border-width: 1px;
+   height: 40px;
+   width: 50%;
+   
+} 
+a:hover {
+color:rgb(218, 17, 17);
+transition: all .30s;
+font-size: 25px;
+}
